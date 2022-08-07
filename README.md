@@ -1,4 +1,4 @@
 # Netflix-Movies-and-Guest-Stars-analysis
-A analysis on the average time and other information about Netflix's movies
+An analysis on the average time and others information about Netflix's movies
 
-This is based in a DataCamp EDA analysis!
+This is based in a DataCamp EDA analysis! Hope you enjoy!
